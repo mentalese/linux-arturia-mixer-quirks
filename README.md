@@ -1,4 +1,4 @@
-#ALSA Mixer Quirks for Arturia AudioFuse Rev2
+# ALSA Mixer Quirks for Arturia AudioFuse Rev2
 
 This repository provides custom mixer_quirks for the Arturia AudioFuse Rev2 audio interface.
 
